@@ -22,6 +22,8 @@ To compile Part2:
 mvn clean compile package
 ```
 
+_Please make sure to combine all maven steps into a single command, especially for part 1. For some reason, it doesn't work if the steps are done in different commands._
+
 ## Part 1 
 
 ### Console application
